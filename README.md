@@ -44,9 +44,9 @@ El informe de cobertura muestra que todas las funciones han sido cubiertas al 10
 A continuación se muestra un resumen del informe de cobertura:
 
 ```plaintext
-Name              Stmts   Miss  Cover
--------------------------------------
-operations.py        10      0   100%
-test_operations.py   16      0   100%
--------------------------------------
-TOTAL                26      0   100%
+Name              Statements   Miss     Coverage
+------------------------------------------------
+operations.py        10         0        100%
+test_operations.py   16         0        100%
+------------------------------------------------
+TOTAL                26         0        100%
